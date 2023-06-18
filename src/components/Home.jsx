@@ -11,12 +11,10 @@ const Home = () => {
           PHAM QUANG THANG
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Full Stack Developer.
+          I'm a student of MindX Technology School
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          I'm a full-stack developer specializing in building (and occasionally
-          designing) exceptional digital experiences. Currently, I'm focused on
-          building responsive full-stack web applications.
+          I'm currently learning how to create a web application. This is my first profolio!
         </p>
         
       </div>
